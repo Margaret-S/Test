@@ -1,0 +1,9 @@
+D:\Desktop\10\test\test\bin\Debug\test.exe.config
+D:\Desktop\10\test\test\bin\Debug\test.exe
+D:\Desktop\10\test\test\bin\Debug\test.pdb
+D:\Desktop\10\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Desktop\10\test\test\obj\Debug\test.Form1.resources
+D:\Desktop\10\test\test\obj\Debug\test.Properties.Resources.resources
+D:\Desktop\10\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Desktop\10\test\test\obj\Debug\test.exe
+D:\Desktop\10\test\test\obj\Debug\test.pdb
